@@ -1,3 +1,6 @@
+# rn-assignment3-11249336
+
+
 # screenshots
 
 ![WhatsApp Image 2024-06-02 at 19 49 52_b970a48e](https://github.com/SethAkoto/rn-assignment3-11249336/assets/142876782/2028608f-cf4b-43ce-aa4d-a76f3b1b77e1)
